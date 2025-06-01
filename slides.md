@@ -1,6 +1,6 @@
 ---
 title: Gen AI Workshop
-background: https://i.ibb.co/RppRx8h7/freepik-a-digital-painting-of-arrow-keys-emerging-from-a-c-3503.png
+background: https://ik.imagekit.io/theArjun/press-arrow-keys-for-navigation?updatedAt=1748784735244
 info: |
   ## Generative AI Workshop for Beginners
   From ChatGPT user to AI Builder
